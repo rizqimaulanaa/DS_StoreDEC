@@ -26,6 +26,4 @@ cd dsstore-decryptor
 python3 dsstore_decryptor.py --url https://example.com/.DS_Store
 ```
 ## 📌 Catatan
-.DS_Store adalah file yang dibuat otomatis oleh macOS di setiap folder. File ini bisa mengandung informasi file/folder yang tidak terlihat langsung, bahkan jika file tersebut sudah dihapus.
-
-Tool ini berguna dalam forensik digital, bug bounty, dan pengujian penetrasi untuk menemukan file yang tidak diindeks secara publik.
+Tool ini dibuat untuk tujuan edukasi dan keamanan. Gunakan secara etis dan hanya pada sistem yang Anda miliki atau memiliki izin untuk diuji.
