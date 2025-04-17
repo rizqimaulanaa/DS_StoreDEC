@@ -13,7 +13,7 @@ Alat forensik digital sederhana untuk mendekripsi dan menganalisis file `.DS_Sto
 - 📄 Menampilkan hanya nama file (tanpa metadata teknis)
 
 ---
-## Install dependency
+## 🔧 Install dependency
 ```bash
 pip install ds_store requests
 ```
