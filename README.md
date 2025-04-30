@@ -26,6 +26,7 @@ pip install ds_store requests
 git clone https://github.com/rizqimaulanaa/DS_StoreDEC/
 cd dsstore-decryptor
 python3 dsstore_decryptor.py --url https://example.com/.DS_Store
+python3 dsstore_decryptor.py --file <path>
 ```
 ## 📌 Catatan
 Tool ini dibuat untuk tujuan edukasi dan keamanan. Gunakan secara etis dan hanya pada sistem yang Anda miliki atau memiliki izin untuk diuji.
